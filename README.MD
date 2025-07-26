@@ -11,4 +11,7 @@ migrate -database YOUR_DATABASE_URL -path PATH_TO_YOUR_MIGRATIONS up
 
 
 ### go packages
+- pq
+- chi
+- godotenv
 - go-playground validator
